@@ -26,3 +26,4 @@ output "subnet_id" {
   value = module.virtual_network.subnet_id
 }
 
+
